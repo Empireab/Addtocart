@@ -26,3 +26,9 @@ li{
  
  
 }
+
+.list:hover{
+
+background-color: deepskyblue;
+cursor: pointer;
+}

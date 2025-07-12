@@ -7,6 +7,9 @@ function App() {
 
   return (
     <>
+    <nav>
+  <button></button>
+</nav>
       <Home/>
     </>
   )
